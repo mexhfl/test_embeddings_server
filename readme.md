@@ -1,4 +1,4 @@
-# test_embeddings 前端部分
+# test_embeddings 后端部分
 
 本仓库是【embeddings测试应用】【后端部分】，基于nodejs，需要搭配【前端部分】使用
 
